@@ -1,6 +1,5 @@
-### Hi there 👋 I am Kourtney Lee
-:house_with_garden: I live in Taipei, Taiwan.<br>
-:computer: I am currently working for a global VR company as a senior backend engineer.<br>
+### Hi there 👋 I am Wuiss
+:house_with_garden: I live in Morelos, México.<br>
 
 ### Skill-set
 <p align="center">
@@ -45,6 +44,5 @@
 </a><br>
 
 ------
-Credits: [klee1611](https://github.com/klee1611)
 
 Last Edited on: 24/04/2022
